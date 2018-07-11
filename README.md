@@ -1,0 +1,2 @@
+# teamblog
+startupblog
